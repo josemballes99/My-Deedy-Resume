@@ -1,6 +1,8 @@
 ## Latexian generated files:
 TSWLatexianTemp*
 
+MacFonts/*
+
 ## Core latex/pdflatex auxiliary files:
 *.aux
 *.lof
