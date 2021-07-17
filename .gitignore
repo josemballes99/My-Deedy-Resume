@@ -1,7 +1,8 @@
 ## Latexian generated files:
 TSWLatexianTemp*
 
-MacFonts/*
+Resume/fonts/*
+Personal_DONTPUSH/*
 
 ## Core latex/pdflatex auxiliary files:
 *.aux
@@ -92,3 +93,4 @@ sympy-plots-for-*.tex/
 
 # xindy
 *.xdy
+*.pdf
