@@ -4,7 +4,7 @@ Deedy-Resume
 Here I host the latest version of my resume using the **XeLaTeX** layout from the repo I'm forking from, which utilizes a single column "twist" found [here](https://www.overleaf.com/latex/templates/single-column-deedy-cv-slash-resume-template/zwyxmkbrfgtz) as well as some other personal modifications :grin:.
 
 ### Current Resume
-![alt tag](https://raw.githubusercontent.com/josemballes99/Deedy-Resume/master/Resume.png)
+![alt tag](https://raw.githubusercontent.com/josemballes99/My-Deedy-Resume/master/Resume.png)
 
 ## License
     Copyright 2014 Debarghya Das
